@@ -1,12 +1,5 @@
 [
     {
-      "name": "Galactic Blue",
-      "description": "A dark blue theme with stars and planets.",
-      "url": "https://raw.githubusercontent.com/sourcelocation/Cowabunga-theme-repo/main/passcode-themes/BEST_adobe_dog.passthm",
-      "preview": "https://raw.githubusercontent.com/sourcelocation/Cowabunga-theme-repo/main/passcode-theme-previews/galactic_blue_preview.png",
-      "contact": { "Twitter": "@galactic_blue_dev" }
-    },
-    {
       "name": "Among Us",
       "description": "When the impostor is sus.",
       "url": "https://raw.githubusercontent.com/sourcelocation/Cowabunga-theme-repo/main/passcode-themes/AmongUsKeylock.passthm",
@@ -14,31 +7,31 @@
       "contact": { "GitHub": "@NoW4U2Kid" }
     },
     {
-      "name": "Cherry Blossom",
-      "description": "A light pink theme with cherry blossom flowers.",
-      "url": "https://raw.githubusercontent.com/sourcelocation/Cowabunga-theme-repo/main/passcode-themes/BEST_adobe_dog.passthm",
-      "preview": "https://raw.githubusercontent.com/sourcelocation/Cowabunga-theme-repo/main/passcode-theme-previews/cherry_blossom_preview.png",
-      "contact": { "Discord": "cherry_blossom_dev#1234" }
+      "name": "Rainbow Doodle",
+      "description": "A colorful key combination.",
+      "url": "https://raw.githubusercontent.com/sourcelocation/Cowabunga-theme-repo/main/passcode-themes/Rainbow_Doodle.passthm",
+      "preview": "https://raw.githubusercontent.com/sourcelocation/Cowabunga-theme-repo/main/passcode-theme-previews/rainbow_doodle_preview.png",
+      "contact": { "Discord": "Twilight System#4820" }
     },
     {
-      "name": "Midnight City",
-      "description": "A dark theme with a city skyline.",
-      "url": "https://raw.githubusercontent.com/sourcelocation/Cowabunga-theme-repo/main/passcode-themes/BEST_adobe_dog.passthm",
-      "preview": "https://raw.githubusercontent.com/sourcelocation/Cowabunga-theme-repo/main/passcode-theme-previews/midnight_city_preview.png",
-      "contact": { "Twitter": "@midnight_city_dev" }
+      "name": "Consoles",
+      "description": "A retro style of your favorite consoles.",
+      "url": "https://raw.githubusercontent.com/sourcelocation/Cowabunga-theme-repo/main/passcode-themes/consoles.passthm",
+      "preview": "https://raw.githubusercontent.com/sourcelocation/Cowabunga-theme-repo/main/passcode-theme-previews/consoles_preview.png",
+      "contact": { "Discord": "flo3#8888" }
     },
     {
-      "name": "Rainbow Dash",
-      "description": "A bright and colorful theme with a rainbow.",
+      "name": "Adobe Dog",
+      "description": "Funny dog from adobe stock photos.",
       "url": "https://raw.githubusercontent.com/sourcelocation/Cowabunga-theme-repo/main/passcode-themes/BEST_adobe_dog.passthm",
-      "preview": "https://raw.githubusercontent.com/sourcelocation/Cowabunga-theme-repo/main/passcode-theme-previews/rainbow_dash_preview.png",
-      "contact": { "Discord": "rainbow_dash_dev#5678" }
+      "preview": "https://raw.githubusercontent.com/sourcelocation/Cowabunga-theme-repo/main/passcode-theme-previews/adobe_dog_preview.png",
+      "contact": { "GitHub": "@LeminLimez" }
     },
     {
-      "name": "Elegant Black",
-      "description": "A simple black theme with white text.",
-      "url": "https://raw.githubusercontent.com/sourcelocation/Cowabunga-theme-repo/main/passcode-themes/BEST_adobe_dog.passthm",
-      "preview": "https://raw.githubusercontent.com/sourcelocation/Cowabunga-theme-repo/main/passcode-theme-previews/elegant_black_preview.png",
-      "contact": { "Discord" : "sourcelocation#3880" }
+      "name": "Skull",
+      "description": "💀",
+      "url": "https://raw.githubusercontent.com/sourcelocation/Cowabunga-theme-repo/main/passcode-themes/Skully.passthm",
+      "preview": "https://raw.githubusercontent.com/sourcelocation/Cowabunga-theme-repo/main/passcode-theme-previews/skull_preview.png",
+      "contact": { "Discord" : "AunX#0015" }
     }
   ]
