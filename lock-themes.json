@@ -1,6 +1,7 @@
 [
     {
       "name": "Troll",
+      "description": ":trol:",
       "url": "https://raw.githubusercontent.com/sourcelocation/Cowabunga-theme-repo/main/lock-themes/Troll",
       "preview": "https://raw.githubusercontent.com/sourcelocation/Cowabunga-theme-repo/main/lock-theme/Troll/trollformation40.png",
       "contact": { "GitHub": "@Haxi0" }
