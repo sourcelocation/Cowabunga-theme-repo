@@ -75,19 +75,5 @@
       "url": "https://raw.githubusercontent.com/sourcelocation/Cowabunga-theme-repo/main/passcode-themes/Monopad.passthm",
       "preview": "https://raw.githubusercontent.com/sourcelocation/Cowabunga-theme-repo/main/passcode-theme-previews/monopad.png",
       "contact": { "GitHub": "@BomberFish" }
-    },
-    {
-      "name": "Walter",
-      "description": "Waltuh. Put ya phone away Waltuh.",
-      "url": "https://raw.githubusercontent.com/sourcelocation/Cowabunga-theme-repo/main/passcode-themes/Waltuh.passthm",
-      "preview": "https://raw.githubusercontent.com/sourcelocation/Cowabunga-theme-repo/main/passcode-theme-previews/waltuh.png",
-      "contact": { "Twitter": "@AbbyFemX3" }
-    },
-    {
-      "name": "Skull",
-      "description": "💀",
-      "url": "https://raw.githubusercontent.com/sourcelocation/Cowabunga-theme-repo/main/passcode-themes/Skully.passthm",
-      "preview": "https://raw.githubusercontent.com/sourcelocation/Cowabunga-theme-repo/main/passcode-theme-previews/skull.png",
-      "contact": { "Discord" : "AunX#0015" }
     }
   ]
