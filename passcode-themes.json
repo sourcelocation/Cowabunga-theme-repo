@@ -21,6 +21,20 @@
       "contact": { "Discord": "Twilight System#4820" }
     },
     {
+      "name": "Roman Numerals",
+      "description": "Rome.",
+      "url": "https://raw.githubusercontent.com/sourcelocation/Cowabunga-theme-repo/main/passcode-themes/roman_numerals.passthm",
+      "preview": "https://raw.githubusercontent.com/sourcelocation/Cowabunga-theme-repo/main/passcode-theme-previews/roman_numerals_preview.png",
+      "contact": { "Discord": "martinn#2028" }
+    },
+    {
+      "name": "Minecraft",
+      "description": "Cubic fun.",
+      "url": "https://raw.githubusercontent.com/sourcelocation/Cowabunga-theme-repo/main/passcode-themes/minecraft.passthm",
+      "preview": "https://raw.githubusercontent.com/sourcelocation/Cowabunga-theme-repo/main/passcode-theme-previews/minecraft_preview.png",
+      "contact": { "Discord": "Kalphalus#5952" }
+    },
+    {
       "name": "Consoles",
       "description": "A retro style of your favorite consoles.",
       "url": "https://raw.githubusercontent.com/sourcelocation/Cowabunga-theme-repo/main/passcode-themes/consoles.passthm",
