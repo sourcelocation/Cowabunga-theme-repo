@@ -89,5 +89,12 @@
       "url": "https://raw.githubusercontent.com/sourcelocation/Cowabunga-theme-repo/main/passcode-themes/neon2.passthm",
       "preview": "https://raw.githubusercontent.com/sourcelocation/Cowabunga-theme-repo/main/passcode-theme-previews/neon2_preview.png",
       "contact": { "Twitter": "@duongduong0908" }
+    },
+    {
+      "name": "Simple Dark",
+      "description": "A simple dark passcode theme.",
+      "url": "https://raw.githubusercontent.com/sourcelocation/Cowabunga-theme-repo/main/passcode-themes/simple_dark.passthm",
+      "preview": "https://raw.githubusercontent.com/sourcelocation/Cowabunga-theme-repo/main/passcode-theme-previews/simple_dark.png",
+      "contact": { "GitHub": "@c22dev" }
     }
   ]
