@@ -75,5 +75,19 @@
       "url": "https://raw.githubusercontent.com/sourcelocation/Cowabunga-theme-repo/main/passcode-themes/Monopad.passthm",
       "preview": "https://raw.githubusercontent.com/sourcelocation/Cowabunga-theme-repo/main/passcode-theme-previews/monopad.png",
       "contact": { "GitHub": "@BomberFish" }
+    },
+    {
+      "name": "Neon",
+      "description": "Feel the color.",
+      "url": "https://raw.githubusercontent.com/sourcelocation/Cowabunga-theme-repo/main/passcode-themes/neon.passthm",
+      "preview": "https://raw.githubusercontent.com/sourcelocation/Cowabunga-theme-repo/main/passcode-theme-previews/neon_preview.png",
+      "contact": { "Twitter": "@duongduong0908" }
+    },
+    {
+      "name": "Neon 2",
+      "description": "Feel the color again.",
+      "url": "https://raw.githubusercontent.com/sourcelocation/Cowabunga-theme-repo/main/passcode-themes/neon2.passthm",
+      "preview": "https://raw.githubusercontent.com/sourcelocation/Cowabunga-theme-repo/main/passcode-theme-previews/neon2_preview.png",
+      "contact": { "Twitter": "@duongduong0908" }
     }
   ]
