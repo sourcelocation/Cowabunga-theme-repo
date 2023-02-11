@@ -2,16 +2,16 @@
   {
     "name": "Trollface",
     "description": ":trol:",
-    "url": "lock-themes/Troll.zip",
-    "preview": "lock-theme/OSX/trollformation40.png",
+    "url": "lock-themes/Trollface.zip",
+    "preview": "lock-theme-previews/Trollface_preview.png",
     "contact": { "GitHub": "@haxi0" },
     "version": "1.0"
   },
   {
-    "name": "OS X",
+    "name": "OSX",
     "description": "Lock icon from macOS.",
     "url": "lock-themes/OSX.zip",
-    "preview": "lock-theme/OSX/trollformation40.png",
+    "preview": "lock-theme-previews/OSX_preview.png",
     "contact": { "GitHub": "@BomberFish" },
     "version": "1.0"
   }
