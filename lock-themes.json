@@ -2,16 +2,16 @@
   {
     "name": "Trollface",
     "description": ":trol:",
-    "url": "https://raw.githubusercontent.com/sourcelocation/Cowabunga-theme-repo/main/lock-themes/Troll.zip",
-    "preview": "https://raw.githubusercontent.com/sourcelocation/Cowabunga-theme-repo/main/lock-theme/OSX/trollformation40.png",
+    "url": "lock-themes/Troll.zip",
+    "preview": "lock-theme/OSX/trollformation40.png",
     "contact": { "GitHub": "@haxi0" },
     "version": "1.0"
   },
   {
     "name": "OS X",
     "description": "Lock icon from macOS.",
-    "url": "https://raw.githubusercontent.com/sourcelocation/Cowabunga-theme-repo/main/lock-themes/OSX.zip",
-    "preview": "https://raw.githubusercontent.com/sourcelocation/Cowabunga-theme-repo/main/lock-theme/OSX/trollformation40.png",
+    "url": "lock-themes/OSX.zip",
+    "preview": "lock-theme/OSX/trollformation40.png",
     "contact": { "GitHub": "@BomberFish" },
     "version": "1.0"
   }
