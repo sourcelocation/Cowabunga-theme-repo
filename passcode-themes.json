@@ -1,100 +1,114 @@
 [
-    {
-      "name": "Among Us",
-      "description": "When the impostor is sus.",
-      "url": "https://raw.githubusercontent.com/sourcelocation/Cowabunga-theme-repo/main/passcode-themes/AmongUsKeylock.passthm",
-      "preview": "https://raw.githubusercontent.com/sourcelocation/Cowabunga-theme-repo/main/passcode-theme-previews/among_us.png",
-      "contact": { "GitHub": "@NoW4U2Kid" }
-    },
-    {
-      "name": "Colored Numbers",
-      "description": "A colorful key combination.",
-      "url": "https://raw.githubusercontent.com/sourcelocation/Cowabunga-theme-repo/main/passcode-themes/colored_numbers.passthm",
-      "preview": "https://raw.githubusercontent.com/sourcelocation/Cowabunga-theme-repo/main/passcode-theme-previews/colored_numbers.png",
-      "contact": { "Discord": "Skwad29#2999" }
-    },
-    {
-      "name": "Rainbow Doodle",
-      "description": "A colorful key combination.",
-      "url": "https://raw.githubusercontent.com/sourcelocation/Cowabunga-theme-repo/main/passcode-themes/Rainbow_Doodle.passthm",
-      "preview": "https://raw.githubusercontent.com/sourcelocation/Cowabunga-theme-repo/main/passcode-theme-previews/rainbow_doodle.png",
-      "contact": { "Twitter": "@duongduong0908" }
-    },
-    {
-      "name": "Roman Numerals",
-      "description": "Rome.",
-      "url": "https://raw.githubusercontent.com/sourcelocation/Cowabunga-theme-repo/main/passcode-themes/roman_numerals.passthm",
-      "preview": "https://raw.githubusercontent.com/sourcelocation/Cowabunga-theme-repo/main/passcode-theme-previews/roman_numerals_preview.png",
-      "contact": { "Discord": "martinn#2028" }
-    },
-    {
-      "name": "Minecraft",
-      "description": "Cubic fun.",
-      "url": "https://raw.githubusercontent.com/sourcelocation/Cowabunga-theme-repo/main/passcode-themes/minecraft.passthm",
-      "preview": "https://raw.githubusercontent.com/sourcelocation/Cowabunga-theme-repo/main/passcode-theme-previews/minecraft_preview.png",
-      "contact": { "Discord": "Kalphalus#5952" }
-    },
-    {
-      "name": "Consoles",
-      "description": "A retro style of your favorite consoles.",
-      "url": "https://raw.githubusercontent.com/sourcelocation/Cowabunga-theme-repo/main/passcode-themes/consoles.passthm",
-      "preview": "https://raw.githubusercontent.com/sourcelocation/Cowabunga-theme-repo/main/passcode-theme-previews/consoles.png",
-      "contact": { "Discord": "flo3#8888" }
-    },
-    {
-      "name": "Dragon Ball",
-      "description": "Dragon ball something.",
-      "url": "https://raw.githubusercontent.com/sourcelocation/Cowabunga-theme-repo/main/passcode-themes/DragonBallPass.passthm",
-      "preview": "https://raw.githubusercontent.com/sourcelocation/Cowabunga-theme-repo/main/passcode-theme-previews/dragon_ball.png",
-      "contact": { "Github": "YangJiii" }
-    },
-    {
-      "name": "Digital",
-      "description": "High-tech keys for high-tech people.",
-      "url": "https://raw.githubusercontent.com/sourcelocation/Cowabunga-theme-repo/main/passcode-themes/Digital.passthm",
-      "preview": "https://raw.githubusercontent.com/sourcelocation/Cowabunga-theme-repo/main/passcode-theme-previews/digital.png",
-      "contact": { "Discord": "Xenon#1539" }
-    },
-    {
-      "name": "Dark Red and Black",
-      "description": "Dark red and black.",
-      "url": "https://raw.githubusercontent.com/sourcelocation/Cowabunga-theme-repo/main/passcode-themes/dark_red_and_black.passthm",
-      "preview": "https://raw.githubusercontent.com/sourcelocation/Cowabunga-theme-repo/main/passcode-theme-previews/dark_red_and_black_preview.png",
-      "contact": { "Discord": "Kalphalus#5952" }
-    },
-    {
-      "name": "Adobe Dog",
-      "description": "Funny dog from adobe stock photos.",
-      "url": "https://raw.githubusercontent.com/sourcelocation/Cowabunga-theme-repo/main/passcode-themes/BEST_adobe_dog.passthm",
-      "preview": "https://raw.githubusercontent.com/sourcelocation/Cowabunga-theme-repo/main/passcode-theme-previews/adobe_dog.png",
-      "contact": { "GitHub": "@LeminLimez" }
-    },
-    {
-      "name": "Monopad",
-      "description": "Simple monospaced passcode theme.",
-      "url": "https://raw.githubusercontent.com/sourcelocation/Cowabunga-theme-repo/main/passcode-themes/Monopad.passthm",
-      "preview": "https://raw.githubusercontent.com/sourcelocation/Cowabunga-theme-repo/main/passcode-theme-previews/monopad.png",
-      "contact": { "GitHub": "@BomberFish" }
-    },
-    {
-      "name": "Neon",
-      "description": "Feel the color.",
-      "url": "https://raw.githubusercontent.com/sourcelocation/Cowabunga-theme-repo/main/passcode-themes/neon.passthm",
-      "preview": "https://raw.githubusercontent.com/sourcelocation/Cowabunga-theme-repo/main/passcode-theme-previews/neon_preview.png",
-      "contact": { "Github": "YangJiii" }
-    },
-    {
-      "name": "Neon 2",
-      "description": "Feel the color again.",
-      "url": "https://raw.githubusercontent.com/sourcelocation/Cowabunga-theme-repo/main/passcode-themes/neon2.passthm",
-      "preview": "https://raw.githubusercontent.com/sourcelocation/Cowabunga-theme-repo/main/passcode-theme-previews/neon2_preview.png",
-      "contact": { "Github": "YangJiii" }
-    },
-    {
-      "name": "Simple Dark",
-      "description": "A simple dark passcode theme.",
-      "url": "https://raw.githubusercontent.com/sourcelocation/Cowabunga-theme-repo/main/passcode-themes/simple_dark.passthm",
-      "preview": "https://raw.githubusercontent.com/sourcelocation/Cowabunga-theme-repo/main/passcode-theme-previews/simple_dark.png",
-      "contact": { "GitHub": "@c22dev" }
-    }
-  ]
+  {
+    "name": "Among Us",
+    "description": "When the impostor is sus.",
+    "url": "https://raw.githubusercontent.com/sourcelocation/Cowabunga-theme-repo/main/passcode-themes/AmongUsKeylock.passthm",
+    "preview": "https://raw.githubusercontent.com/sourcelocation/Cowabunga-theme-repo/main/passcode-theme-previews/among_us.png",
+    "contact": { "GitHub": "@NoW4U2Kid" },
+    "version": "1.0"
+  },
+  {
+    "name": "Colored Numbers",
+    "description": "A colorful key combination.",
+    "url": "https://raw.githubusercontent.com/sourcelocation/Cowabunga-theme-repo/main/passcode-themes/colored_numbers.passthm",
+    "preview": "https://raw.githubusercontent.com/sourcelocation/Cowabunga-theme-repo/main/passcode-theme-previews/colored_numbers.png",
+    "contact": { "Discord": "Skwad29#2999" },
+    "version": "1.0"
+  },
+  {
+    "name": "Rainbow Doodle",
+    "description": "A colorful key combination.",
+    "url": "https://raw.githubusercontent.com/sourcelocation/Cowabunga-theme-repo/main/passcode-themes/Rainbow_Doodle.passthm",
+    "preview": "https://raw.githubusercontent.com/sourcelocation/Cowabunga-theme-repo/main/passcode-theme-previews/rainbow_doodle.png",
+    "contact": { "Twitter": "@duongduong0908" },
+    "version": "1.0"
+  },
+  {
+    "name": "Roman Numerals",
+    "description": "Rome.",
+    "url": "https://raw.githubusercontent.com/sourcelocation/Cowabunga-theme-repo/main/passcode-themes/roman_numerals.passthm",
+    "preview": "https://raw.githubusercontent.com/sourcelocation/Cowabunga-theme-repo/main/passcode-theme-previews/roman_numerals_preview.png",
+    "contact": { "Discord": "martinn#2028" },
+    "version": "1.0"
+  },
+  {
+    "name": "Minecraft",
+    "description": "Cubic fun.",
+    "url": "https://raw.githubusercontent.com/sourcelocation/Cowabunga-theme-repo/main/passcode-themes/minecraft.passthm",
+    "preview": "https://raw.githubusercontent.com/sourcelocation/Cowabunga-theme-repo/main/passcode-theme-previews/minecraft_preview.png",
+    "contact": { "Discord": "Kalphalus#5952" },
+    "version": "1.0"
+  },
+  {
+    "name": "Consoles",
+    "description": "A retro style of your favorite consoles.",
+    "url": "https://raw.githubusercontent.com/sourcelocation/Cowabunga-theme-repo/main/passcode-themes/consoles.passthm",
+    "preview": "https://raw.githubusercontent.com/sourcelocation/Cowabunga-theme-repo/main/passcode-theme-previews/consoles.png",
+    "contact": { "Discord": "flo3#8888" },
+    "version": "1.0"
+  },
+  {
+    "name": "Dragon Ball",
+    "description": "Dragon ball something.",
+    "url": "https://raw.githubusercontent.com/sourcelocation/Cowabunga-theme-repo/main/passcode-themes/DragonBallPass.passthm",
+    "preview": "https://raw.githubusercontent.com/sourcelocation/Cowabunga-theme-repo/main/passcode-theme-previews/dragon_ball.png",
+    "contact": { "Github": "YangJiii" },
+    "version": "1.0"
+  },
+  {
+    "name": "Digital",
+    "description": "High-tech keys for high-tech people.",
+    "url": "https://raw.githubusercontent.com/sourcelocation/Cowabunga-theme-repo/main/passcode-themes/Digital.passthm",
+    "preview": "https://raw.githubusercontent.com/sourcelocation/Cowabunga-theme-repo/main/passcode-theme-previews/digital.png",
+    "contact": { "Discord": "Xenon#1539" },
+    "version": "1.0"
+  },
+  {
+    "name": "Dark Red and Black",
+    "description": "Dark red and black.",
+    "url": "https://raw.githubusercontent.com/sourcelocation/Cowabunga-theme-repo/main/passcode-themes/dark_red_and_black.passthm",
+    "preview": "https://raw.githubusercontent.com/sourcelocation/Cowabunga-theme-repo/main/passcode-theme-previews/dark_red_and_black_preview.png",
+    "contact": { "Discord": "Kalphalus#5952" },
+    "version": "1.0"
+  },
+  {
+    "name": "Adobe Dog",
+    "description": "Funny dog from adobe stock photos.",
+    "url": "https://raw.githubusercontent.com/sourcelocation/Cowabunga-theme-repo/main/passcode-themes/BEST_adobe_dog.passthm",
+    "preview": "https://raw.githubusercontent.com/sourcelocation/Cowabunga-theme-repo/main/passcode-theme-previews/adobe_dog.png",
+    "contact": { "GitHub": "@LeminLimez" },
+    "version": "1.0"
+  },
+  {
+    "name": "Monopad",
+    "description": "Simple monospaced passcode theme.",
+    "url": "https://raw.githubusercontent.com/sourcelocation/Cowabunga-theme-repo/main/passcode-themes/Monopad.passthm",
+    "preview": "https://raw.githubusercontent.com/sourcelocation/Cowabunga-theme-repo/main/passcode-theme-previews/monopad.png",
+    "contact": { "GitHub": "@BomberFish" },
+    "version": "1.0"
+  },
+  {
+    "name": "Neon",
+    "description": "Feel the color.",
+    "url": "https://raw.githubusercontent.com/sourcelocation/Cowabunga-theme-repo/main/passcode-themes/neon.passthm",
+    "preview": "https://raw.githubusercontent.com/sourcelocation/Cowabunga-theme-repo/main/passcode-theme-previews/neon_preview.png",
+    "contact": { "Github": "YangJiii" },
+    "version": "1.0"
+  },
+  {
+    "name": "Neon 2",
+    "description": "Feel the color again.",
+    "url": "https://raw.githubusercontent.com/sourcelocation/Cowabunga-theme-repo/main/passcode-themes/neon2.passthm",
+    "preview": "https://raw.githubusercontent.com/sourcelocation/Cowabunga-theme-repo/main/passcode-theme-previews/neon2_preview.png",
+    "contact": { "Github": "YangJiii" },
+    "version": "1.0"
+  },
+  {
+    "name": "Simple Dark",
+    "description": "A simple dark passcode theme.",
+    "url": "https://raw.githubusercontent.com/sourcelocation/Cowabunga-theme-repo/main/passcode-themes/simple_dark.passthm",
+    "preview": "https://raw.githubusercontent.com/sourcelocation/Cowabunga-theme-repo/main/passcode-theme-previews/simple_dark.png",
+    "contact": { "GitHub": "@c22dev" },
+    "version": "1.0"
+  }
+]
