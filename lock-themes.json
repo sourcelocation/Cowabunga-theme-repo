@@ -14,5 +14,157 @@
     "preview": "lock-theme-previews/OSX_preview.png",
     "contact": { "GitHub": "@BomberFish" },
     "version": "1.0"
-  }
+  },
+  {
+    "name": "YangJiii Loader",
+    "description": "YangJiii.",
+    "url": "lock-themes/YangJiii Loader.zip",
+    "preview": "lock-theme-previews/YangJiii_Loader_preview.png",
+    "contact": { "GitHub": "@YangJiii" },
+    "version": "1.0"
+  },
+  {
+    "name": "Apple Event",
+    "description": "Apple moment.",
+    "url": "lock-themes/Apple Event.zip",
+    "preview": "lock-theme-previews/Apple_Event_preview.png",
+    "contact": { "GitHub": "@YangJiii" },
+    "version": "1.0"
+  },
+  {
+    "name": "Astronaut Color",
+    "description": "Flying through space... in color!",
+    "url": "lock-themes/Astronaut Color.zip",
+    "preview": "lock-theme-previews/Astronaut_Color_preview.png",
+    "contact": { "GitHub": "@YangJiii" },
+    "version": "1.0"
+  },
+  {
+    "name": "Astronaut White",
+    "description": "Flying through space.",
+    "url": "lock-themes/Astronaut White.zip",
+    "preview": "lock-theme-previews/Astronaut_White_preview.png",
+    "contact": { "GitHub": "@YangJiii" },
+    "version": "1.0"
+  },
+  {
+    "name": "Box Corgi",
+    "description": "Cute fuzzy friend shipped directly from Amazon.",
+    "url": "lock-themes/Box Corgi.zip",
+    "preview": "lock-theme-previews/BoxCorgi_preview.png",
+    "contact": { "GitHub": "@YangJiii" },
+    "version": "1.0"
+  },
+  {
+    "name": "Box Funny",
+    "description": "idk what this is supposed to be.",
+    "url": "lock-themes/Box Funny.zip",
+    "preview": "lock-theme-previews/BoxFunny_preview.png",
+    "contact": { "GitHub": "@YangJiii" },
+    "version": "1.0"
+  },
+  {
+    "name": "Box Lock",
+    "description": "idk what this is supposed to be.",
+    "url": "lock-themes/Box Lock.zip",
+    "preview": "lock-theme-previews/BoxLock_preview.png",
+    "contact": { "GitHub": "@YangJiii" },
+    "version": "1.0"
+  },
+  {
+    "name": "Black Cat",
+    "description": "epic gamer cat",
+    "url": "lock-themes/Black Cat.zip",
+    "preview": "lock-theme-previews/CatBlack_preview.png",
+    "contact": { "GitHub": "@YangJiii" },
+    "version": "1.0"
+  },
+  {
+    "name": "Windows 10",
+    "description": "",
+    "url": "lock-themes/Windows 10.zip",
+    "preview": "lock-theme-previews/Win10_preview.png",
+    "contact": { "GitHub": "@YangJiii" },
+    "version": "1.0"
+  },
+  {
+    "name": "Pikachu",
+    "description": "",
+    "url": "lock-themes/Pikachu.zip",
+    "preview": "lock-theme-previews/Pikachu_preview.png",
+    "contact": { "GitHub": "@YangJiii" },
+    "version": "1.0"
+  },
+  {
+    "name": "Poké Ball",
+    "description": "",
+    "url": "lock-themes/Poké Ball.zip",
+    "preview": "lock-theme-previews/Pokeball_preview.png",
+    "contact": { "GitHub": "@YangJiii" },
+    "version": "1.0"
+  },
+  {
+    "name": "Green Poké Ball",
+    "description": "",
+    "url": "lock-themes/Green Poké Ball.zip",
+    "preview": "lock-theme-previews/Pokeball_Green_preview.png",
+    "contact": { "GitHub": "@YangJiii" },
+    "version": "1.0"
+  },
+  {
+    "name": "Hello",
+    "description": "",
+    "url": "lock-themes/Hello.zip",
+    "preview": "lock-theme-previews/Hello_preview.png",
+    "contact": { "GitHub": "@YangJiii" },
+    "version": "1.0"
+  },
+  {
+    "name": "LG",
+    "description": "",
+    "url": "lock-themes/LG.zip",
+    "preview": "lock-theme-previews/LG_preview.png",
+    "contact": { "GitHub": "@YangJiii" },
+    "version": "1.0"
+  },
+  {
+    "name": "Goku Ultra Instinct",
+    "description": "",
+    "url": "lock-themes/Goku Ultra Instinct.zip",
+    "preview": "lock-theme-previews/Goku_UltraInstinct_preview.png",
+    "contact": { "GitHub": "@YangJiii" },
+    "version": "1.0"
+  },
+  {
+    "name": "Pengu TFT",
+    "description": "",
+    "url": "lock-themes/Pengu TFT.zip",
+    "preview": "lock-theme-previews/Pengu_preview.png",
+    "contact": { "GitHub": "@YangJiii" },
+    "version": "1.0"
+  },
+  {
+    "name": "Robo",
+    "description": "",
+    "url": "lock-themes/Robo.zip",
+    "preview": "lock-theme-previews/Robo_preview.png",
+    "contact": { "GitHub": "@YangJiii" },
+    "version": "1.0"
+  },
+  {
+    "name": "Sad",
+    "description": "",
+    "url": "lock-themes/Sad.zip",
+    "preview": "lock-theme-previews/Sad_preview.png",
+    "contact": { "GitHub": "@YangJiii" },
+    "version": "1.0"
+  },
+  {
+    "name": "Siri",
+    "description": "",
+    "url": "lock-themes/Siri.zip",
+    "preview": "lock-theme-previews/Siri_preview.png",
+    "contact": { "GitHub": "@YangJiii" },
+    "version": "1.0"
+  },
 ]
