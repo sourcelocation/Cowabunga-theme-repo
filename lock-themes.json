@@ -50,7 +50,7 @@
   {
     "name": "Box Corgi",
     "description": "Cute fuzzy friend shipped directly from Amazon.",
-    "url": "lock-themes/BoxCorgi.zip",
+    "url": "lock-themes/Box_Corgi.zip",
     "preview": "lock-theme-previews/BoxCorgi_preview.png",
     "contact": { "GitHub": "@YangJiii" },
     "version": "1.0"
@@ -58,7 +58,7 @@
   {
     "name": "Box Funny",
     "description": "idk what this is supposed to be.",
-    "url": "lock-themes/BoxFunny.zip",
+    "url": "lock-themes/Box_Funny.zip",
     "preview": "lock-theme-previews/BoxFunny_preview.png",
     "contact": { "GitHub": "@YangJiii" },
     "version": "1.0"
@@ -66,7 +66,7 @@
   {
     "name": "Box Lock",
     "description": "idk what this is supposed to be.",
-    "url": "lock-themes/BoxLock.zip",
+    "url": "lock-themes/Box_Lock.zip",
     "preview": "lock-theme-previews/BoxLock_preview.png",
     "contact": { "GitHub": "@YangJiii" },
     "version": "1.0"
@@ -74,7 +74,7 @@
   {
     "name": "Black Cat",
     "description": "epic gamer cat",
-    "url": "lock-themes/BlackCat.zip",
+    "url": "lock-themes/Black_Cat.zip",
     "preview": "lock-theme-previews/CatBlack_preview.png",
     "contact": { "GitHub": "@YangJiii" },
     "version": "1.0"
