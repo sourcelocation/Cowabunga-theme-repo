@@ -118,5 +118,45 @@
     "preview": "passcode-theme-previews/simple_dark.png",
     "contact": { "GitHub": "@c22dev" },
     "version": "1.0"
+  },
+  {
+    "name": "MinePass (Rainbow)",
+    "description": "",
+    "url": "passcode-themes/MinePass_Rainbow.passthm",
+    "preview": "passcode-theme-previews/MinePass_Rainbow_preview.png",
+    "contact": { "Discord": "AIslayer#7438" },
+    "version": "1.0"
+  },
+  {
+    "name": "MinePass (Nightly)",
+    "description": "",
+    "url": "passcode-themes/MinePass_Nightly.passthm",
+    "preview": "passcode-theme-previews/MinePass_Nightly_preview.png",
+    "contact": { "Discord": "AIslayer#7438" },
+    "version": "1.0"
+  },
+  {
+    "name": "Simple Dots",
+    "description": "",
+    "url": "passcode-themes/Simple_Dots.passthm",
+    "preview": "passcode-theme-previews/Simple_Dots_preview.png",
+    "contact": { "Discord": "Tuchan#0001" },
+    "version": "1.0"
+  },
+  {
+    "name": "Linux Distros",
+    "description": "",
+    "url": "passcode-themes/Linux_Distros.passthm",
+    "preview": "passcode-theme-previews/Linux_Distros_preview.png",
+    "contact": { "Discord": "AZGDO#6010" },
+    "version": "1.0"
+  },
+  {
+    "name": "Ice Cream",
+    "description": "",
+    "url": "passcode-themes/IceCream.passthm",
+    "preview": "passcode-theme-previews/IceCream_preview.png",
+    "contact": { "Discord": "AIslayer#7438" },
+    "version": "1.0"
   }
 ]
