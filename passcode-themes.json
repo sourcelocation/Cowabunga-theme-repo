@@ -24,6 +24,14 @@
     "version": "1.0"
   },
   {
+    "name": "1.1.1.1",
+    "description": "DNS never looked this good.",
+    "url": "passcode-themes/cloudflare.passthm",
+    "preview": "passcode-theme-previews/cloudflare.png",
+    "contact": { "GitHub": "@YangJiii" },
+    "version": "1.0"
+  },
+  {
     "name": "Roman Numerals",
     "description": "Rome.",
     "url": "passcode-themes/roman_numerals.passthm",
