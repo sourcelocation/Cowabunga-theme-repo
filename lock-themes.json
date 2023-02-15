@@ -183,4 +183,20 @@
     "contact": { "Discord": "@iswaxan#8319" },
     "version": "1.0"
   },
+  {
+    "name": "Rainbow Star",
+    "description": "",
+    "url": "lock-themes/Rainbow_Star.zip",
+    "preview": "lock-theme-previews/Rainbow_Star_preview.png",
+    "contact": { "Discord": "@The_Nobl3_Guy#8446" },
+    "version": "1.0"
+  },
+  {
+    "name": "Street Fighter",
+    "description": "",
+    "url": "lock-themes/Street_Fighter.zip",
+    "preview": "lock-theme-previews/Street_Fighter_preview.png",
+    "contact": { "Discord": "@The_Nobl3_Guy#8446" },
+    "version": "1.0"
+  },
 ]

@@ -158,5 +158,21 @@
     "preview": "passcode-theme-previews/IceCream_preview.png",
     "contact": { "Discord": "AIslayer#7438" },
     "version": "1.0"
+  },
+  {
+    "name": "OSU! Hit Circle",
+    "description": "",
+    "url": "passcode-themes/OSU!_Hit_Circle.passthm",
+    "preview": "passcode-theme-previews/OSU!_Hit_Circle_preview.png",
+    "contact": { "Discord": "doraa#2828" },
+    "version": "1.0"
+  },
+  {
+    "name": "Viva Pass",
+    "description": "",
+    "url": "passcode-themes/Viva_Pass.passthm",
+    "preview": "passcode-theme-previews/Viva_Pass_preview.png",
+    "contact": { "Discord": "AIslayer#7438" },
+    "version": "1.0"
   }
 ]
