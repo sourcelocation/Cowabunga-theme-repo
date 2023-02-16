@@ -5,6 +5,22 @@
     "url": "icon-themes/Vivacity.zip",
     "preview": "icon-theme-previews/vivacity-preview.png",
     "contact": { "Twitter": "@Thenatis1" },
+    "version": "1.2"
+  },
+  {
+    "name": "Lollipop",
+    "description": "",
+    "url": "icon-themes/Lollipop.zip",
+    "preview": "icon-theme-previews/Lollipop.png",
+    "contact": { "Twitter": "@Thenatis1" },
+    "version": "1.0"
+  },
+  {
+    "name": "Harmony",
+    "description": "",
+    "url": "icon-themes/Harmony.zip",
+    "preview": "icon-theme-previews/Harmony.png",
+    "contact": { "Twitter": "@Thenatis1" },
     "version": "1.0"
   }
 ]
