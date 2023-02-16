@@ -192,11 +192,75 @@
     "version": "1.0"
   },
   {
-    "name": "Street Fighter",
+    "name": "Street Fighter (Ken)",
     "description": "",
-    "url": "lock-themes/Street_Fighter.zip",
-    "preview": "lock-theme-previews/Street_Fighter_preview.png",
+    "url": "lock-themes/Street_Fighter_(Ken).zip",
+    "preview": "lock-theme-previews/Street_Fighter_(Ken)_preview.png",
     "contact": { "Discord": "@The_Nobl3_Guy#8446" },
+    "version": "1.0"
+  },
+  {
+    "name": "Street Fighter (Ryu)",
+    "description": "",
+    "url": "lock-themes/Street_Fighter_(Ryu).zip",
+    "preview": "lock-theme-previews/Street_Fighter_(Ryu)_preview.png",
+    "contact": { "Discord": "@The_Nobl3_Guy#8446" },
+    "version": "1.0"
+  },
+  {
+    "name": "Street Fighter (Blanca)",
+    "description": "",
+    "url": "lock-themes/Street_Fighter_(Blanca).zip",
+    "preview": "lock-theme-previews/Street_Fighter_(Blanca)_preview.png",
+    "contact": { "Discord": "@The_Nobl3_Guy#8446" },
+    "version": "1.0"
+  },
+  {
+    "name": "Masked Face ID",
+    "description": "",
+    "url": "lock-themes/Masked_Face_ID.zip",
+    "preview": "lock-theme-previews/Masked_Face_ID_preview.png",
+    "contact": { "GitHub": "@YangJiii" },
+    "version": "1.0"
+  },
+  {
+    "name": "Touch ID",
+    "description": "",
+    "url": "lock-themes/Touch_ID.zip",
+    "preview": "lock-theme-previews/Touch_ID_preview.png",
+    "contact": { "GitHub": "@YangJiii" },
+    "version": "1.0"
+  },
+  {
+    "name": "Space Guy",
+    "description": "",
+    "url": "lock-themes/Space_Guy.zip",
+    "preview": "lock-theme-previews/Space_Guy_preview.png",
+    "contact": { "GitHub": "@YangJiii" },
+    "version": "1.0"
+  },
+  {
+    "name": "Funny Rabbit Man",
+    "description": "",
+    "url": "lock-themes/Funny_Rabbit_Man.zip",
+    "preview": "lock-theme-previews/Funny_Rabbit_Man_preview.png",
+    "contact": { "GitHub": "@YangJiii" },
+    "version": "1.0"
+  },
+  {
+    "name": "Classic Lock (White)",
+    "description": "",
+    "url": "lock-themes/Classic_Lock_(White).zip",
+    "preview": "lock-theme-previews/Classic_Lock_(White).png",
+    "contact": { "GitHub": "@YangJiii" },
+    "version": "1.0"
+  },
+  {
+    "name": "Swaying Head",
+    "description": "",
+    "url": "lock-themes/Swaying_Head.zip",
+    "preview": "lock-theme-previews/Swaying_Head_preview.png",
+    "contact": { "GitHub": "@YangJiii" },
     "version": "1.0"
   },
 ]
