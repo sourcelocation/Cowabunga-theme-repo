@@ -263,4 +263,12 @@
     "contact": { "GitHub": "@YangJiii" },
     "version": "1.0"
   },
+  {
+    "name": "Mario Kart (Toad)",
+    "description": "",
+    "url": "lock-themes/Mario_Kart_(Toad).zip",
+    "preview": "lock-theme-previews/Mario_Kart_(Toad)_preview.png",
+    "contact": { "Discord": "@The_Nobl3_Guy#8446" },
+    "version": "1.0"
+  },
 ]
