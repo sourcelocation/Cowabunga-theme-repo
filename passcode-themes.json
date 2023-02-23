@@ -8,6 +8,14 @@
     "version": "1.0"
   },
   {
+    "name": "Adobe Dog",
+    "description": "Funny dog from adobe stock photos.",
+    "url": "passcode-themes/BEST_adobe_dog.passthm",
+    "preview": "passcode-theme-previews/adobe_dog.png",
+    "contact": { "GitHub": "@LeminLimez" },
+    "version": "1.0"
+  },
+  {
     "name": "Colored Numbers",
     "description": "A colorful key combination.",
     "url": "passcode-themes/colored_numbers.passthm",
@@ -77,14 +85,6 @@
     "url": "passcode-themes/dark_red_and_black.passthm",
     "preview": "passcode-theme-previews/dark_red_and_black_preview.png",
     "contact": { "Discord": "Kalphalus#5952" },
-    "version": "1.0"
-  },
-  {
-    "name": "Adobe Dog",
-    "description": "Funny dog from adobe stock photos.",
-    "url": "passcode-themes/BEST_adobe_dog.passthm",
-    "preview": "passcode-theme-previews/adobe_dog.png",
-    "contact": { "GitHub": "@LeminLimez" },
     "version": "1.0"
   },
   {
