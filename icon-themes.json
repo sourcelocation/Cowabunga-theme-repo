@@ -22,5 +22,37 @@
     "preview": "icon-theme-previews/Harmony.png",
     "contact": { "Twitter": "@Thenatis1" },
     "version": "1.0"
+  },
+  {
+    "name": "Odysseus",
+    "description": "",
+    "url": "icon-themes/Odysseus.zip",
+    "preview": "icon-theme-previews/Odysseus.png",
+    "contact": { "Twitter": "@daddykool666" },
+    "version": "1.0"
+  },
+  {
+    "name": "Odysseus Dark",
+    "description": "",
+    "url": "icon-themes/Odysseus-Dark.zip",
+    "preview": "icon-theme-previews/Odysseus-Dark.png",
+    "contact": { "Twitter": "@daddykool666" },
+    "version": "1.0"
+  },
+  {
+    "name": "Simplest",
+    "description": "",
+    "url": "icon-themes/Simplest.zip",
+    "preview": "icon-theme-previews/Simplest.png",
+    "contact": { "Twitter": "@daddykool666" },
+    "version": "1.0"
+  },
+  {
+    "name": "Felicity Pro",
+    "description": "",
+    "url": "icon-themes/Felicity-Pro.zip",
+    "preview": "icon-theme-previews/Felicity-Pro.png",
+    "contact": { "Twitter": "@xerusdesign" },
+    "version": "1.0"
   }
 ]

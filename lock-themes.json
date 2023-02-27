@@ -188,7 +188,7 @@
     "description": "",
     "url": "lock-themes/Rainbow_Star.zip",
     "preview": "lock-theme-previews/Rainbow_Star_preview.png",
-    "contact": { "Discord": "@The_Nobl3_Guy#8446" },
+    "contact": { "Twitter": "@The_Nobl3_Guy" },
     "version": "1.0"
   },
   {
@@ -196,7 +196,7 @@
     "description": "",
     "url": "lock-themes/Street_Fighter_(Ken).zip",
     "preview": "lock-theme-previews/Street_Fighter_(Ken)_preview.png",
-    "contact": { "Discord": "@The_Nobl3_Guy#8446" },
+    "contact": { "Twitter": "@The_Nobl3_Guy" },
     "version": "1.0"
   },
   {
@@ -204,7 +204,7 @@
     "description": "",
     "url": "lock-themes/Street_Fighter_(Ryu).zip",
     "preview": "lock-theme-previews/Street_Fighter_(Ryu)_preview.png",
-    "contact": { "Discord": "@The_Nobl3_Guy#8446" },
+    "contact": { "Twitter": "@The_Nobl3_Guy" },
     "version": "1.0"
   },
   {
@@ -212,7 +212,7 @@
     "description": "",
     "url": "lock-themes/Street_Fighter_(Blanca).zip",
     "preview": "lock-theme-previews/Street_Fighter_(Blanca)_preview.png",
-    "contact": { "Discord": "@The_Nobl3_Guy#8446" },
+    "contact": { "Twitter": "@The_Nobl3_Guy" },
     "version": "1.0"
   },
   {
@@ -268,7 +268,23 @@
     "description": "",
     "url": "lock-themes/Mario_Kart_(Toad).zip",
     "preview": "lock-theme-previews/Mario_Kart_(Toad)_preview.png",
-    "contact": { "Discord": "@The_Nobl3_Guy#8446" },
+    "contact": { "Twitter": "@The_Nobl3_Guy" },
+    "version": "1.0"
+  },
+  {
+    "name": "Pokemon (Togepi)",
+    "description": "",
+    "url": "lock-themes/Pokemon_(Togepi).zip",
+    "preview": "lock-theme-previews/Pokemon_(Togepi)_preview.png",
+    "contact": { "Twitter": "@The_Nobl3_Guy" },
+    "version": "1.0"
+  },
+  {
+    "name": "Tails",
+    "description": "",
+    "url": "lock-themes/Tails.zip",
+    "preview": "lock-theme-previews/Tails_preview.png",
+    "contact": { "Twitter": "@The_Nobl3_Guy" },
     "version": "1.0"
   },
 ]
