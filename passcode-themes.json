@@ -182,5 +182,37 @@
     "preview": "passcode-theme-previews/Pokeball_Pass_preview.png",
     "contact": { "Twitter": "@The_Nobl3_Guy" },
     "version": "1.0"
+  },
+  {
+    "name": "Snooker",
+    "description": "",
+    "url": "passcode-themes/Snooker_Pass.passthm",
+    "preview": "passcode-theme-previews/Billiard_Pass_preview.png",
+    "contact": { "Twitter": "@The_Nobl3_Guy" },
+    "version": "1.0"
+  },
+  {
+    "name": "Star Lord",
+    "description": "",
+    "url": "passcode-themes/Star_Lord.passthm",
+    "preview": "passcode-theme-previews/Star_Lord_preview.png",
+    "contact": { "Twitter": "@The_Nobl3_Guy" },
+    "version": "1.0"
+  },
+  {
+    "name": "Space Travelers",
+    "description": "",
+    "url": "passcode-themes/SpaceTravelers.passthm",
+    "preview": "passcode-theme-previews/SpaceTravelers_preview.png",
+    "contact": { "Twitter": "@The_Nobl3_Guy" },
+    "version": "1.0"
+  },
+  {
+    "name": "Planets",
+    "description": "",
+    "url": "passcode-themes/Planets.passthm",
+    "preview": "passcode-theme-previews/Planets_preview.png",
+    "contact": { "Twitter": "@The_Nobl3_Guy" },
+    "version": "1.0"
   }
 ]
