@@ -5,4 +5,4 @@
 Official [Cowabunga](https://github.com/leminlimez/Cowabunga/) theme repo
 
 ### How to submit my themes?
-Submit your themes inside our Discord server: https://discord.gg/VyVcNjRMeg
+Submit your themes inside our Discord server: https://discord.gg/MN8JgqSAqT
